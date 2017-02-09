@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "HelloWorld"
+  s.name         = “HBHelloWorld"
   s.version      = "0.0.1"
   s.summary      = "HelloWorld,it can show hello world!"
 
